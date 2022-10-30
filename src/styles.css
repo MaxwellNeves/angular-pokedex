@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+*, *:after, *:before { /*O asterístico serve para afetar todos os elementos da tela*/
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
